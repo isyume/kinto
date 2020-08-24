@@ -3,7 +3,7 @@
     [
         {
             "port": 8888,"listen":"0.0.0.0","protocol": "vmess",
-            "settings": {"clients": [{"id": "c95ef1d4-f3ac-4586-96e9-234a37dda068"}]},
+            "settings": {"clients": [{"id": "91411903-050d-4db6-ba0f-1e1f7cb267b1"}]},
             "streamSettings": {"network": "ws"}
         }
     ],
